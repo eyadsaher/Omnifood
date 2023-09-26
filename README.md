@@ -26,6 +26,9 @@ Welcome to Omnifood, your top choice for Food Delivery powered by AI! Our user-f
 ## 📌 What I've Learned
 
 👉 How to design websites.
+
 👉 How to make websites work well.
+
 👉 How to make webpages from nothing.
+
 👉 How to make websites fit all screens.
