@@ -1,6 +1,6 @@
 ## ⭐ Omnifood - Elevating Your Dining Experience ⭐
 
-Welcome to Omnifood, your top choice for Food Delivery powered by AI! Our user-friendly website is designed to make your dining experience easy and enjoyable. We've used the latest web technologies like **HTML5**, **CSS3**, and **JavaScript** to create a smooth and pleasant journey for you.
+This user-friendly website is designed to make your dining experience easy and enjoyable. I've used the latest web technologies like **HTML5**, **CSS3**, and **JavaScript** to create a smooth and pleasant journey for you.
 
 ## 📌 **Live Site URL:** <a href="https://eyadsaheromnifood.netlify.app/" target="_blank">**Explore Now** 🚀</a>
 
